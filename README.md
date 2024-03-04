@@ -23,3 +23,4 @@
 * JS
 * Python
 * Docker
+* Flask
