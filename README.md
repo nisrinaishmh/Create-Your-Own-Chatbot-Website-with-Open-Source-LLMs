@@ -1,4 +1,4 @@
-# IBMSkillsNetwork: IBMSkillsNetwork GPXX04ESEN - Create Your Own Chatbot Website with Open Source LLMs🌈🪄 
+# IBMSkillsNetwork: GPXX04ESEN - Create Your Own Chatbot Website with Open Source LLMs🌈🪄 
 
 ## Author✍️
 
